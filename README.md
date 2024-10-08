@@ -1,3 +1,0 @@
-# USTrafficAccidents
-
-First Message
