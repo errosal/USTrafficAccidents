@@ -1,17 +1,17 @@
-# Introduction
+ Introduction
 
 In this project, we will analyze u.s. traffic accident data to uncover patterns and trends that could help reduce accident rates and improve road safety.  
 the dataset covers accidents from january 2016 to march 2023 and includes information on accident severity, location, time, weather conditions, and more. this dataset was retrieved from **Kaggle**, a popular data science community platform.
 
-the primary goals of this analysis are:
+The primary goals of this analysis are:
 
-- **to identify** accident trends over time, by location, and by severity.  
-- **to understand** how external factors like weather and holidays affect accidents.  
-- **to provide** actionable insights for policymakers and drivers.  
+- **To identify** accident trends over time, by location, and by severity.  
+- **To understand** how external factors like weather and holidays affect accidents.  
+- **To provide** actionable insights for policymakers and drivers.  
 
-this is a roadmap of the notebooks and questions we are going to explore:
+This is a roadmap of the notebooks and questions we are going to explore:
 
-1. general accident statistics  
+1. General accident statistics  
    - how many accidents occurred in the dataset’s time range?  
    - what is the trend in accidents over the years? are accidents increasing or decreasing over time?  
    - which states had the highest and lowest number of accidents?  
