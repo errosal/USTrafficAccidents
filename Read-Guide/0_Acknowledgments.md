@@ -1,5 +1,5 @@
-<small>As this project uses a dataset sourced from kaggle, I would like to acknowledge the creators and contributors of the dataset. if you reference or build upon this project, please kindly cite the following papers:
+As this project uses a dataset sourced from [**Kaggle**](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents), I would like to acknowledge the creators and contributors of the dataset. If you reference or build upon this project, please kindly cite the following papers:
 
-- moosavi, sobhan, mohammad hossein samavatian, srinivasan parthasarathy, and rajiv ramnath. “a countrywide traffic accident dataset.”, 2019.
+- Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 
-- moosavi, sobhan, mohammad hossein samavatian, srinivasan parthasarathy, radu teodorescu, and rajiv ramnath. "accident risk prediction based on heterogeneous sparse data: new dataset and insights." in proceedings of the 27th acm sigspatial international conference on advances in geographic information systems, acm, 2019.<small>
+- Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
