@@ -1,4 +1,4 @@
-As this project uses a dataset sourced from [**Kaggle**](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents), I would like to acknowledge the creators and contributors of the dataset. If you reference or build upon this project, please kindly cite the following papers:
+As this project uses a dataset sourced from [**Kaggle**](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents){:target="_blank"}, I would like to acknowledge the creators and contributors of the dataset. If you reference or build upon this project, please kindly cite the following papers:
 
 - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 
