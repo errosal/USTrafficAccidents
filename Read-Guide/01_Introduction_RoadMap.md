@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 
 In this project, we will analyze U.S. traffic accident data to uncover patterns and trends that could help reduce accident rates and improve road safety.  
 the dataset covers accidents from january 2016 to march 2023 and includes information on accident severity, location, time, weather conditions, and more. this dataset was retrieved from **Kaggle**, a popular data science community platform.
@@ -15,23 +15,15 @@ This is a roadmap of the notebooks and questions we are going to explore:
  
 - How many features (columns) and accidents (rows) are recorded in the dataset?
 
-
 2.  Exploratory and Geographic Analysis  
 
 - How many accidents occurred in the dataset’s time range?
-
 - What is the trend in accidents over the years? Are accidents increasing or decreasing over time?
-
 - What is the distribution of accidents across different months? Are there seasonal trends?
-
 - At what time of day do most accidents happen (morning, afternoon, or night)?
-
 - Which states had the highest and lowest number of accidents?
-
 - Which cities have the highest and lower number of accidents?
-
 - Which regions or states have the highest accident severity, and what factors contribute to more serious accidents in these areas?
-
 - Generate a cluster map that groups areas with high and low accident concentrations across the U.S.
 
 
