@@ -4,4 +4,4 @@
 # Ignore all Parquet files
 *.parquet
 
-*/OldNotebooks
+/Users/er/Desktop/Data Analysis/Projects/Python/US Accidents/USTrafficAccidents/OldNotebooks
